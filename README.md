@@ -4,19 +4,11 @@
 ## 👋 Hi there, I’m Dmk1999s!
 
 ### 🧑‍💻 About Me
-- 🎓 Computer Science major
+- 🎓 Sangmyung University Computer Science major
 - 🌱 I’m currently learning **React**, **Node.js**, and **TypeScript**
 - 🔭 Interested in **AI**, **Web development**, and **Open Source**
 
 ### 📫 Contact
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📝 Blog: [your-blog](https://yourblog.com)
+- 📧 Email: loik1235@gmail.com
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.”
-
-<!--
-**Dmk1999s/Dmk1999s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
