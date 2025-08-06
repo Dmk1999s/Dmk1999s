@@ -1,5 +1,5 @@
 <!-- 헤더 이미지 (capsule-render 사용) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Dmk1999s's%20GitHub&fontSize=40&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=60&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=welcome&fontSize=70&animation=fadeIn&desc=mk1999s's%20GitHub%20Profile&descAlignY=60&descAlign=62)
 
 ## 👋 Hi there, I’m Dmk1999s!
 
