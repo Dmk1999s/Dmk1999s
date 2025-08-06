@@ -5,7 +5,6 @@
 
 ### 🧑‍💻 About Me
 - 🎓 Sangmyung University Computer Science major
-- 🌱 I’m currently learning **React**, **Node.js**, and **TypeScript**
 - 🔭 Interested in **AI**, **Web development**, and **Open Source**
 
 ### 📫 Contact
