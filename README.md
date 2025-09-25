@@ -73,6 +73,14 @@
    >> - **커뮤니티 플랫폼**
    >> - **크레딧 시스템**
    >
+   >> **배포 및 인프라 아키텍처**
+   >> - **CI/CD**: GitHub Actions를 통해 코드 변경 시 Docker Hub에 이미지 자동 빌드 및 푸시
+   >> - **배포 환경**: AWS EC2 인스턴스에서 Docker 기반 컨테이너 실행 (Nginx + Django + Redis)
+   >> - **Nginx**: 리버스 프록시 및 정적 파일 서빙
+   >> - **Redis**: 세션/캐시 관리 및 Celery 작업 큐 처리
+   >> - **데이터베이스**: AWS RDS(MySQL) 연동
+   >> - **검색**: OpenSearch와 연결하여 k-NN 기반 벡터 검색 및 키워드 검색 제공
+   >> - **Lambda**: OpenSearch 후처리 및 특정 이벤트 트리거 처리
    >> [프로젝트 상세 설명 https://github.com/NaughtyComputer]
    
 ### 📫 Contact
